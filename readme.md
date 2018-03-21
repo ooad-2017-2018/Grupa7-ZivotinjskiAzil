@@ -12,6 +12,35 @@ Cilj sistema je poboljšanje efikasnosti pružanja usluga i komunikacije s klije
 
 # Procesi
 
+Registracija korisnika
+
+Ukoliko korisnik želi udomiti životinju ili naručivati opremu iz pet shop-a potrebno je da se registruje u sistem kreiranjem account-a i unošenjem osnovnih ličnih podataka.
+
+Pretraživanje životinja 
+
+I registrovani i neregistrovani korisnici mogu pretraživati ponuđene životinje pri čemu imaju mogućnost korištenja filtera radi lakšeg pretraživanja.
+
+Ažuriranje stanja životinja u ponudi
+
+Uposlenik dodaje nove životinje u ponudu navodeći osnovne informacije (vrsta, spol, rasa, starost...), o životinji. Uposlenik ažurira stanje o postojećim životinjama u ponudi (npr. starost). Ukoliko je životinja udomljena, uposlenik arhivira životinju i uklanja iz ponude vidljive korisnicima.
+
+Rezervacija/udomljavanje životinje
+
+Samo registrovani korisnici mogu slati zahtjev za udomljavanje. Korisnici imaju mogućnost rezervacije životinje za udomljavanje, pri čemu ukoliko istekne vremenski period rezervacije a udomitelj nije preuzeo životinju u azilu, rezervacija se poništava. Korisnik ima mogućnost otkazivanja rezervacije. Korisnik prilikom slanja zahtjeva za udomljavanje ima opciju da izabere da li želi dostavu životinje ili lično preuzimanje. 
+
+Prijava lokacije napuštene životinje
+
+Samo registrovani korisnici imaju mogućnost prijave lokacije napuštene životinje azilu. Putem prilagođenog interfejsa šalju obavještenje azilu  pri čemu korisnici bivaju obaviješteni da je lokacija primljena i evidentirana.
+
+Naručivanje opreme iz pet shop-a
+
+Registrovani korisnici imaju mogućnost naručivanja opreme iz pet shop-a pri čemu imaju dodatne pogodnosti ukoliko imaju status udomitelja, oprema se dostavlja na kućnu adresu, a stanje zaliha se mijenja.
+
+Upravljanje zalihama u pet shop-u
+
+Uposlenik ažurira cijene i opise proizvoda, dodaje/briše proizvode. Uposlenik dobija informaciju ukoliko neki proizvod nije na stanju i obavještava vlasnika ukoliko je potrebna nabavka.
+
+
 # Funkcionalnosti
 
 -	mogućnost dodavanja novih životinja u ponudu 
