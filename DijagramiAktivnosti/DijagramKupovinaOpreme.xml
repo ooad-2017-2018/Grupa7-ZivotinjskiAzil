@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Author="Ajdina" CommentTableSortAscending="false" CommentTableSortColumn="Date Time" Description="&lt;html&gt;&#13;&#10;  &lt;head&gt;&#13;&#10;    &lt;style type=&quot;text/css&quot;&gt;&#10;      &lt;!--&#10;        body { color: #000000; font-family: Dialog; font-size: 12px }&#10;      --&gt;&#10;    &lt;/style&gt;&#13;&#10;    &#13;&#10;  &lt;/head&gt;&#13;&#10;  &lt;body&gt;&#13;&#10;  &lt;/body&gt;&#13;&#10;&lt;/html&gt;&#13;&#10;" DocumentationType="html" ExportedFromDifferentName="false" ExporterVersion="12.2" Name="DijagramKupovinaOpreme" TextualAnalysisHighlightOptionCaseSensitive="false" UmlVersion="2.x" Xml_structure="simple">
+	<ProjectInfo>
+		<LogicalView/>
+		<ProjectOptions>
+			<DiagramOptions ActivityDiagramControlFlowDisplayOption="\u0000" ActivityDiagramShowActionCallBehaviorOption="\u0000" ActivityDiagramShowActivityEdgeWeight="true" ActivityDiagramShowObjectNodeType="true" ActivityDiagramShowPartitionHandle="\u0000" AddDataStoresExtEntitiesToDecomposedDFD="\u0002" AlignColumnProperties="true" AllowConfigShowInOutFlowButtonsInDataFlowDiagram="false" AutoGenerateRoleName="false" AutoSetAttributeType="true" AutoSetColumnType="true" AutoSyncRoleName="true" BpdAutoStretchPools="true" BpdConnectGatewayWithFlowObjectInDifferentPool="\u0000" BpdDefaultConnectionPointStyle="\u0001" BpdDefaultConnectorStyle="\u0005" BpdDhowIdOption="\u0000" BpdShowActivitiesTypeIcon="true" BusinessProcessDiagramDefaultLanguage="English" ClassVisibilityStyle="\u0001" ConnectorLabelOrientation="\u0000" CreateOneMessagePerDirection="true" DecisionMergeNodeConnectionPointStyle="\u0000" DefaultAssociationEndNavigable="\u0001" DefaultAssociationEndVisibility="\u0000" DefaultAssociationShowFromMultiplicity="true" DefaultAssociationShowFromRoleName="true" DefaultAssociationShowFromRoleVisibility="true" DefaultAssociationShowStereotypes="true" DefaultAssociationShowToMultiplicity="true" DefaultAssociationShowToRoleName="true" DefaultAssociationShowToRoleVisibility="true" DefaultAttributeMultiplicity="false" DefaultAttributeType="" DefaultAttributeVisibility="\u0001" DefaultClassAttributeMultiplicity="" DefaultClassAttributeMultiplicityOrdered="false" DefaultClassAttributeMultiplicityUnique="true" DefaultClassInterfaceBall="false" DefaultClassVisibility="\u0004" DefaultColumnType="integer(10)" DefaultConnectionPointStyle="\u0000" DefaultConnectorStyle="\u0001" DefaultDiagramBackground="rgb(255, 255, 255)" DefaultDisplayAsRobustnessAnalysisIcon="true" DefaultDisplayAsRobustnessAnalysisIconInSequenceDiagram="true" DefaultDisplayAsStereotypeIcon="false" DefaultFontColor="rgb(0, 0, 0)" DefaultGenDiagramTypeFromScenario="\u0000" DefaultHtmlDocFontColor="rgb(0, 0, 0)" DefaultLineJumps="\u0000" DefaultOperationVisibility="\u0004" DefaultParameterDirection="\u0002" DefaultShowAttributeInitialValue="true" DefaultShowAttributeOption="\u0001" DefaultShowClassMemberStereotype="true" DefaultShowDirection="false" DefaultShowMultiplicityConstraints="false" DefaultShowOperationOption="\u0001" DefaultShowOperationSignature="true" DefaultShowOrderedMultiplicityConstraint="true" DefaultShowOwnedAssociationEndAsAttribute="true" DefaultShowOwner="false" DefaultShowOwnerSkipModelInFullyQualifiedOwnerSignature="true" DefaultShowTemplateParameter="true" DefaultShowTypeOption="\u0001" DefaultShowUniqueMultiplicityConstraint="true" DefaultTypeOfSubProcess="\u0000" DefaultWrapClassMember="false" DrawTextAnnotationOpenRectangleFollowConnectorEnd="true" EnableMinimumSize="true" EntityColumnConstraintsPresentation="\u0002" ErdIndexNumOfDigits="-1" ErdIndexPattern="{table_name}" ErdIndexPatternSyncAutomatically="true" ErdManyToManyJoinTableDelimiter="_" EtlTableDiagramFontSize="14" ExpandedSubProcessDiagramContent="\u0001" ForeignKeyArrowHeadSize="\u0002" ForeignKeyConnectorEndPointAssociatedColumn="false" ForeignKeyNamePattern="{reference_table_name}{reference_column_name}" ForeignKeyNamePatternCaseHandling="0" ForeignKeyRelationshipPattern="{association_name}" FractionalMetrics="true" GeneralizationSetNotation="\u0001" GraphicAntiAliasing="true" GridDiagramFontSize="14" LineJumpSize="\u0000" ModelElementNameAlignment="\u0004" MultipleLineClassName="\u0001" PaintConnectorThroughLabel="false" PointConnectorEndToCompartmentMember="true" PrimaryKeyConstraintPattern="" PrimaryKeyNamePattern="ID" RenameConstructorAfterRenameClass="\u0000" RenameExtensionPointToFollowExtendUseCase="\u0000" ShapeAutoFitSize="false" ShowActivationsInSequenceDiagram="true" ShowActivityStateNodeCaption="524287" ShowArtifactOption="\u0002" ShowAssociatedDiagramNameOfInteraction="false" ShowAssociationRoleStereotypes="true" ShowAttributeGetterSetter="false" ShowClassEmptyCompartments="false" ShowColumnNullable="true" ShowColumnType="true" ShowColumnUniqueConstraintName="false" ShowComponentOption="\u0002" ShowExtraColumnProperties="true" ShowInOutFlowButtonsInDataFlowDiagram="false" ShowInOutFlowsInSubLevelDiagram="true" ShowMessageOperationSignatureForSequenceAndCommunicationDiagram="true" ShowMessageStereotypeInSequenceAndCommunicationDiagram="true" ShowNumberInCollaborationDiagram="true" ShowNumberInSequenceDiagram="true" ShowPackageNameStyle="\u0000" ShowParameterNameInOperationSignature="true" ShowRowGridLineWithinCompClassDiagram="false" ShowRowGridLineWithinCompERD="true" ShowRowGridLineWithinORMDiagram="true" ShowSchemaNameInERD="true" ShowTransitionTrigger="\u0000" ShowUseCaseExtensionPoint="true" ShowUseCaseID="false" StateShowParametersOfInternalActivities="false" StateShowPrePostConditionAndBodyOfInternalActivities="true" StopTargetLifelineOnCreateDestroyMessage="\u0002" SupportHtmlTaggedValue="false" SupportMultipleLineAttribute="true" SuppressImpliedMultiplicityForAttributeAssociationEnd="false" SyncAssociationNameWithAssociationClass="\u0000" SyncAssociationRoleNameWithReferencedAttributeName="true" SyncDocOfInterfaceToSubClass="\u0000" TextAntiAliasing="true" TextualAnalysisGenerateRequirementTextOption="\u0001" TextualAnalysisHighlightOption="\u0000" UnnamedIndexPattern="{table_name}_{column_name}" UseStateNameTab="false" WireflowDiagramShowActiveFlowLabel="true" WireflowDiagramTheme="0" WireflowDiagramWireflowShowPreview="true" WireflowDiagramWireflowShowScreenId="true">
+				<DefaultHtmlDocFont Family="Dialog" Size="12" Style="0"/>
+			</DiagramOptions>
+			<GeneralOptions ConfirmSubLevelIdWithDot="true"/>
+			<InstantReverseOptions CalculateGeneralizationAndRealization="false" CreateShapeForParentModelOfDraggedClassPackage="false" ReverseGetterSetter="\u0000" ReverseOperationImplementation="false" ShowPackageForNewDiagram="\u0001" ShowPackageOwner="\u0000"/>
+			<ModelQualityOptions EnableModelQualityChecking="false"/>
+			<ORMOptions DecimalPrecision="19" DecimalScale="0" ExportCommentToDatabase="true" FormattedSQL="false" GenerateAssociationWithAttribute="false" GenerateDiagramFromORMWizards="true" GetterSetterVisibility="\u0000" IdGeneratorType="native" MappingFileColumnOrder="\u0000" NumericToClassType="\u0000" QuoteSQLIdentifier="\u0000" RecreateShapeWhenSync="false" SyncToClassDiagramAttributeName="\u0001" SyncToClassDiagramAttributeNamePrefix="" SyncToClassDiagramAttributeNameSuffix="" SyncToClassDiagramClassName="\u0000" SyncToClassDiagramClassNamePrefix="" SyncToClassDiagramClassNameSuffix="" SyncToERDColumnName="\u0000" SyncToERDColumnNamePrefix="" SyncToERDColumnNameSuffix="" SyncToERDTableName="\u0004" SyncToERDTableNamePrefix="" SyncToERDTableNameSuffix="" SynchronizeDefaultValueToColumn="false" SynchronizeName="\u0002" TablePerSubclassFKMapping="\u0000" UpperCaseSQL="true" UseDefaultDecimal="true" WrappingServletRequest="\u0001"/>
+			<RequirementDiagramOptions DefaultWrapMember="false" ShowAttributes="\u0001" SupportHTMLAttribute="false"/>
+			<StateCodeEngineOptions AutoCreateInitialStateInStateDiagram="true" AutoCreateTransitionMethods="true" DefaultInitialStateLocationX="-1" DefaultInitialStateLocationY="-1" GenerateDebugMessage="false" GenerateSample="true" GenerateTryCatch="true" Language="\u0000" RegenerateTransitionMethods="false" SyncTransitionMethods="true"/>
+			<WarningOptions CreateORMClassInDefaultPackage="true"/>
+			<PORepository>
+				<POUserIDFormats>
+					<POUserIDFormat Digits="2" Guid="false" Id="b7kk9kaGAqAAEgxh" LastNumericValue="0" ModelType="BPMNElement" Prefix="BP" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="P7kk9kaGAqAAEgxi" LastNumericValue="0" ModelType="Actor" Prefix="AC" Suffix=""/>
+					<POUserIDFormat Digits="2" Guid="false" Id="v7kk9kaGAqAAEgxj" LastNumericValue="0" ModelType="UseCase" Prefix="UC" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="f7kk9kaGAqAAEgxk" LastNumericValue="0" ModelType="Requirement" Prefix="REQ" Suffix=""/>
+					<POUserIDFormat Digits="3" Guid="false" Id="_7kk9kaGAqAAEgxl" LastNumericValue="0" ModelType="BusinessRule" Prefix="BR" Suffix=""/>
+					<POUserIDFormat Digits="-1" Guid="false" Id="_7kk9kaGAqAAEgxm" LastNumericValue="0" ModelType="BusinessProcessDiagram" Prefix="" Suffix=""/>
+				</POUserIDFormats>
+			</PORepository>
+		</ProjectOptions>
+	</ProjectInfo>
+	<Models>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pK4k9kaGAqAAEgjo" Name="boolean" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.045" PmLastModified="2018-03-29T02:25:04.429" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="8q4k9kaGAqAAEgjp" Name="byte" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.087" PmLastModified="2018-03-29T02:25:04.457" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="yq4k9kaGAqAAEgjq" Name="char" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.091" PmLastModified="2018-03-29T02:25:04.375" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="6q4k9kaGAqAAEgjr" Name="double" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.095" PmLastModified="2018-03-29T02:25:04.516" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="Wq4k9kaGAqAAEgjs" Name="float" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.098" PmLastModified="2018-03-29T02:25:04.573" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id=".q4k9kaGAqAAEgjt" Name="int" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.103" PmLastModified="2018-03-29T02:25:04.397" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="Rq4k9kaGAqAAEgju" Name="long" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.106" PmLastModified="2018-03-29T02:25:04.864" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="pq4k9kaGAqAAEgjv" Name="short" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.109" PmLastModified="2018-03-29T02:25:04.565" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="5q4k9kaGAqAAEgjw" Name="void" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.111" PmLastModified="2018-03-29T02:25:04.825" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<DataType BacklogActivityId="0" Documentation_plain="" Id="lq4k9kaGAqAAEgjx" Name="string" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:24:43.113" PmLastModified="2018-03-29T02:25:04.532" QualityScore="-1" UserIDLastNumericValue="0"/>
+		<ActivitySwimlane2 BacklogActivityId="0" Documentation_plain="" Id="lo2k9kaGAqAAEgx2" Name="Swimlane" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:26:04.009" PmLastModified="2018-03-29T02:47:08.645" QualityScore="-1" UserIDLastNumericValue="0">
+			<VerticalPartitions>
+				<ActivityPartition Idref="Uk2k9kaGAqAAEgx6" Name="Partition"/>
+				<ActivityPartition Idref="ks2k9kaGAqAAEgyA" Name="Sistem"/>
+			</VerticalPartitions>
+			<MasterView>
+				<ActivitySwimlane2 Idref="5o2k9kaGAqAAEgx1" Name="Swimlane"/>
+			</MasterView>
+			<ModelChildren>
+				<ActivityPartition BacklogActivityId="0" Documentation_plain="" Id="Uk2k9kaGAqAAEgx6" Name="Partition" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:26:04.234" PmLastModified="2018-03-29T02:28:44.401" QualityScore="-1" UserIDLastNumericValue="0">
+					<ContainedElements>
+						<InitialNode Idref="rC9k9kaGAqAAEgyq" Name=""/>
+						<ActivityAction Idref="s39k9kaGAqAAEgyy" Name="Pretrazivanje ponude proizvoda u pet shop-u"/>
+						<ActivityAction Idref="spbk9kaGAqAAEgzO" Name="Narucivanje zeljenog proizvoda"/>
+					</ContainedElements>
+					<MasterView>
+						<ActivityPartitionHeader Idref="Ek2k9kaGAqAAEgx5" Name="Partition"/>
+					</MasterView>
+				</ActivityPartition>
+				<ActivityPartition BacklogActivityId="0" Documentation_plain="" Id="ks2k9kaGAqAAEgyA" Name="Sistem" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:26:04.489" PmLastModified="2018-03-29T02:47:08.648" QualityScore="-1" UserIDLastNumericValue="0">
+					<ContainedElements>
+						<ActivityAction Idref="IYXk9kaGAqAAEgze" Name="Validacija narudzbe"/>
+						<ForkNode Idref="xB6U9kaGAqAAEg1Y" Name=""/>
+						<ActivityAction Idref="9IuU9kaGAqAAEg1e" Name="Azuriranje stanja zaliha u shopu"/>
+						<ForkNode Idref="zoxU9kaGAqAAEg10" Name=""/>
+						<ActivityAction Idref="4i5U9kaGAqAAEg2A" Name="Provjera statusa klijenta"/>
+						<ActivityAction Idref="OwVU9kaGAqAAEg2O" Name="Obracun narudzbe"/>
+						<DecisionNode Idref="dA609kaGAqAAEg4v" Name=""/>
+						<ActivityAction Idref="YSW09kaGAqAAEg43" Name="Oznaci popust 0%"/>
+						<ActivityAction Idref="X3209kaGAqAAEg4_" Name="Obracun popusta"/>
+						<MergeNode Idref="rd309kaGAqAAEg7N" Name=""/>
+						<ActivityAction Idref="OSSM9kaGAqAAEg8f" Name="Prikazi iznos za placanje"/>
+						<JoinNode Idref="keuM9kaGAqAAEg9Y" Name=""/>
+						<JoinNode Idref="9ShM9kaGAqAAEg9k" Name=""/>
+						<ActivityAction Idref="1QtM9kaGAqAAEg.G" Name="Zakljucivanje racuna"/>
+						<DecisionNode Idref="Nhys9kaGAqAAEg_i" Name=""/>
+						<ActivityAction Idref="6l6s9kaGAqAAEg_y" Name="Prihvatanje narudzbe"/>
+						<ActivityAction Idref="0WGs9kaGAqAAEg_6" Name="Odbijanje narudzbe"/>
+						<MergeNode Idref="ttgc9kaGAqAAEhCo" Name=""/>
+						<ActivityFinalNode Idref="Onwc9kaGAqAAEhC6" Name=""/>
+					</ContainedElements>
+					<MasterView>
+						<ActivityPartitionHeader Idref="Es2k9kaGAqAAEgx_" Name="Sistem"/>
+					</MasterView>
+				</ActivityPartition>
+				<InitialNode BacklogActivityId="0" Documentation_plain="" Id="rC9k9kaGAqAAEgyq" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:27:26.645" PmLastModified="2018-03-29T02:29:14.358" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="SqIU9kaGAqAAEg0H" Name=""/>
+					</FromSimpleRelationships>
+					<MasterView>
+						<InitialNode Idref="LC9k9kaGAqAAEgyp" Name=""/>
+					</MasterView>
+				</InitialNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="s39k9kaGAqAAEgyy" Leaf="false" MustIsolate="false" Name="Pretrazivanje ponude proizvoda u pet shop-u" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:27:29.357" PmLastModified="2018-03-29T02:29:52.689" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="YmMU9kaGAqAAEg0n" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="SqIU9kaGAqAAEg0H" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="M39k9kaGAqAAEgyx" Name="Pretrazivanje ponude proizvoda u pet shop-u"/>
+					</MasterView>
+				</ActivityAction>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="spbk9kaGAqAAEgzO" Leaf="false" MustIsolate="false" Name="Narucivanje zeljenog proizvoda" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:27:56.621" PmLastModified="2018-03-29T02:29:52.691" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="R08U9kaGAqAAEg03" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="YmMU9kaGAqAAEg0n" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="0pbk9kaGAqAAEgzN" Name="Narucivanje zeljenog proizvoda"/>
+					</MasterView>
+				</ActivityAction>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="IYXk9kaGAqAAEgze" Leaf="false" MustIsolate="false" Name="Validacija narudzbe" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:28:11.012" PmLastModified="2018-03-29T02:32:37.684" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="5mLU9kaGAqAAEg3E" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="R08U9kaGAqAAEg03" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="QYXk9kaGAqAAEgzd" Name="Validacija narudzbe"/>
+					</MasterView>
+				</ActivityAction>
+				<ForkNode BacklogActivityId="0" Documentation_plain="" Id="xB6U9kaGAqAAEg1Y" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:30:11.491" PmLastModified="2018-03-29T02:33:27.865" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="UUA09kaGAqAAEg3c" Name=""/>
+						<ControlFlow Idref="26w09kaGAqAAEg3o" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="5mLU9kaGAqAAEg3E" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ForkNode Idref="uB6U9kaGAqAAEg1X" Name=""/>
+					</MasterView>
+				</ForkNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="9IuU9kaGAqAAEg1e" Leaf="false" MustIsolate="false" Name="Azuriranje stanja zaliha u shopu" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:30:34.287" PmLastModified="2018-03-29T02:42:48.900" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="Nbks9kaGAqAAEg_J" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="UUA09kaGAqAAEg3c" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="dIuU9kaGAqAAEg1d" Name="Azuriranje stanja zaliha u shopu"/>
+					</MasterView>
+				</ActivityAction>
+				<ForkNode BacklogActivityId="0" Documentation_plain="" Id="zoxU9kaGAqAAEg10" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:30:58.931" PmLastModified="2018-03-29T02:34:26.176" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="E8s09kaGAqAAEg4M" Name=""/>
+						<ControlFlow Idref="oJc09kaGAqAAEg4U" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="26w09kaGAqAAEg3o" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ForkNode Idref="ToxU9kaGAqAAEg1z" Name=""/>
+					</MasterView>
+				</ForkNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="4i5U9kaGAqAAEg2A" Leaf="false" MustIsolate="false" Name="Provjera statusa klijenta" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:31:16.039" PmLastModified="2018-03-29T02:36:16.438" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="e7109kaGAqAAEg6M" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="oJc09kaGAqAAEg4U" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="Yi5U9kaGAqAAEg1_" Name="Provjera statusa klijenta"/>
+					</MasterView>
+				</ActivityAction>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="OwVU9kaGAqAAEg2O" Leaf="false" MustIsolate="false" Name="Obracun narudzbe" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:31:27.453" PmLastModified="2018-03-29T02:40:20.700" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="wspM9kaGAqAAEg9v" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="E8s09kaGAqAAEg4M" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="GwVU9kaGAqAAEg2N" Name="Obracun narudzbe"/>
+					</MasterView>
+				</ActivityAction>
+				<DecisionNode BacklogActivityId="0" Documentation_plain="" Id="dA609kaGAqAAEg4v" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:34:31.598" PmLastModified="2018-03-29T02:44:38.642" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="Sjt09kaGAqAAEg6Y" Name="Ima status udomitelja"/>
+						<ControlFlow Idref="ncn09kaGAqAAEg7A" Name="Nema status udomitelja"/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="e7109kaGAqAAEg6M" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<DecisionNode Idref="tA609kaGAqAAEg4u" Name=""/>
+					</MasterView>
+				</DecisionNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="YSW09kaGAqAAEg43" Leaf="false" MustIsolate="false" Name="Oznaci popust 0%" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:34:44.998" PmLastModified="2018-03-29T02:37:42.561" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="_tgM9kaGAqAAEg7m" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="ncn09kaGAqAAEg7A" Name="Nema status udomitelja"/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="oSW09kaGAqAAEg42" Name="Oznaci popust 0%"/>
+					</MasterView>
+				</ActivityAction>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="X3209kaGAqAAEg4_" Leaf="false" MustIsolate="false" Name="Obracun popusta" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:34:51.770" PmLastModified="2018-03-29T02:37:42.558" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="GCAM9kaGAqAAEg7e" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="Sjt09kaGAqAAEg6Y" Name="Ima status udomitelja"/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="n3209kaGAqAAEg4." Name="Obracun popusta"/>
+					</MasterView>
+				</ActivityAction>
+				<MergeNode BacklogActivityId="0" Documentation_plain="" Id="rd309kaGAqAAEg7N" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:37:02.005" PmLastModified="2018-03-29T02:39:15.645" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="OZmM9kaGAqAAEg9C" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="GCAM9kaGAqAAEg7e" Name=""/>
+						<ControlFlow Idref="_tgM9kaGAqAAEg7m" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<MergeNode Idref="zd309kaGAqAAEg7M" Name=""/>
+					</MasterView>
+				</MergeNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="OSSM9kaGAqAAEg8f" Leaf="false" MustIsolate="false" Name="Prikazi iznos za placanje" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:38:34.396" PmLastModified="2018-03-29T02:40:20.688" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="ogFM9kaGAqAAEg97" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="OZmM9kaGAqAAEg9C" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="2SSM9kaGAqAAEg8e" Name="Prikazi iznos za placanje"/>
+					</MasterView>
+				</ActivityAction>
+				<JoinNode BacklogActivityId="0" CombineDuplicate="true" Documentation_plain="" Id="keuM9kaGAqAAEg9Y" JoinSpec="" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:39:20.201" PmLastModified="2018-03-29T02:41:51.535" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="AcbM9kaGAqAAEg.d" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="wspM9kaGAqAAEg9v" Name=""/>
+						<ControlFlow Idref="ogFM9kaGAqAAEg97" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<JoinNode Idref="weuM9kaGAqAAEg9X" Name=""/>
+					</MasterView>
+				</JoinNode>
+				<JoinNode BacklogActivityId="0" CombineDuplicate="true" Documentation_plain="" Id="9ShM9kaGAqAAEg9k" JoinSpec="" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:39:35.855" PmLastModified="2018-03-29T02:44:38.631" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="NP5s9kaGAqAAEhBb" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="Nbks9kaGAqAAEg_J" Name=""/>
+						<ControlFlow Idref="LCMs9kaGAqAAEg_V" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<JoinNode Idref="dShM9kaGAqAAEg9j" Name=""/>
+					</MasterView>
+				</JoinNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="1QtM9kaGAqAAEg.G" Leaf="false" MustIsolate="false" Name="Zakljucivanje racuna" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:40:23.979" PmLastModified="2018-03-29T02:42:48.899" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="LCMs9kaGAqAAEg_V" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="AcbM9kaGAqAAEg.d" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="VQtM9kaGAqAAEg.F" Name="Zakljucivanje racuna"/>
+					</MasterView>
+				</ActivityAction>
+				<DecisionNode BacklogActivityId="0" Documentation_plain="" Id="Nhys9kaGAqAAEg_i" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:43:01.612" PmLastModified="2018-03-29T02:45:33.816" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="M3Ns9kaGAqAAEhBl" Name="Nema proizvoda na stanju"/>
+						<ControlFlow Idref="ifTs9kaGAqAAEhB3" Name="Ima proizvoda na stanju"/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="NP5s9kaGAqAAEhBb" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<DecisionNode Idref="1hys9kaGAqAAEg_h" Name=""/>
+					</MasterView>
+				</DecisionNode>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="6l6s9kaGAqAAEg_y" Leaf="false" MustIsolate="false" Name="Prihvatanje narudzbe" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:43:18.487" PmLastModified="2018-03-29T02:47:08.643" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="h04c9kaGAqAAEhDF" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="ifTs9kaGAqAAEhB3" Name="Ima proizvoda na stanju"/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="al6s9kaGAqAAEg_x" Name="Prihvatanje narudzbe"/>
+					</MasterView>
+				</ActivityAction>
+				<ActivityAction BacklogActivityId="0" Documentation_plain="" Id="0WGs9kaGAqAAEg_6" Leaf="false" MustIsolate="false" Name="Odbijanje narudzbe" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:43:21.611" PmLastModified="2018-03-29T02:47:08.639" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="JIUc9kaGAqAAEhDR" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="M3Ns9kaGAqAAEhBl" Name="Nema proizvoda na stanju"/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityAction Idref="kWGs9kaGAqAAEg_5" Name="Odbijanje narudzbe"/>
+					</MasterView>
+				</ActivityAction>
+				<MergeNode BacklogActivityId="0" Documentation_plain="" Id="ttgc9kaGAqAAEhCo" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:46:10.797" PmLastModified="2018-03-29T02:47:08.646" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<FromSimpleRelationships>
+						<ControlFlow Idref="5FMc9kaGAqAAEhDd" Name=""/>
+					</FromSimpleRelationships>
+					<ToSimpleRelationships>
+						<ControlFlow Idref="h04c9kaGAqAAEhDF" Name=""/>
+						<ControlFlow Idref="JIUc9kaGAqAAEhDR" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<MergeNode Idref="Ntgc9kaGAqAAEhCn" Name=""/>
+					</MasterView>
+				</MergeNode>
+				<ActivityFinalNode BacklogActivityId="0" Documentation_plain="" Id="Onwc9kaGAqAAEhC6" Leaf="false" MustIsolate="false" Name="" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:46:19.741" PmLastModified="2018-03-29T02:47:08.637" QualityScore="-1" UserIDLastNumericValue="0" Visibility="Unspecified">
+					<ToSimpleRelationships>
+						<ControlFlow Idref="5FMc9kaGAqAAEhDd" Name=""/>
+					</ToSimpleRelationships>
+					<MasterView>
+						<ActivityFinalNode Idref="Onwc9kaGAqAAEhC5" Name=""/>
+					</MasterView>
+				</ActivityFinalNode>
+			</ModelChildren>
+		</ActivitySwimlane2>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="rC9k9kaGAqAAEgyq" Guard="" Id="SqIU9kaGAqAAEg0H" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:28:52.946" PmLastModified="2018-03-29T02:29:14.346" QualityScore="-1" To="s39k9kaGAqAAEgyy" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="Q6IU9kaGAqAAEg0I"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="s39k9kaGAqAAEgyy" Guard="" Id="YmMU9kaGAqAAEg0n" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:29:25.958" PmLastModified="2018-03-29T02:29:52.665" QualityScore="-1" To="spbk9kaGAqAAEgzO" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="H2MU9kaGAqAAEg0o"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="spbk9kaGAqAAEgzO" Guard="" Id="R08U9kaGAqAAEg03" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:29:37.378" PmLastModified="2018-03-29T02:29:52.679" QualityScore="-1" To="IYXk9kaGAqAAEgze" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="sc8U9kaGAqAAEg04"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="IYXk9kaGAqAAEgze" Guard="" Id="5mLU9kaGAqAAEg3E" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:32:09.831" PmLastModified="2018-03-29T02:32:37.681" QualityScore="-1" To="xB6U9kaGAqAAEg1Y" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="COLU9kaGAqAAEg3F"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="xB6U9kaGAqAAEg1Y" Guard="" Id="UUA09kaGAqAAEg3c" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:32:57.994" PmLastModified="2018-03-29T02:33:27.852" QualityScore="-1" To="9IuU9kaGAqAAEg1e" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="y0A09kaGAqAAEg3d"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="xB6U9kaGAqAAEg1Y" Guard="" Id="26w09kaGAqAAEg3o" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:33:11.131" PmLastModified="2018-03-29T02:33:27.847" QualityScore="-1" To="zoxU9kaGAqAAEg10" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="eGw09kaGAqAAEg3p"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="zoxU9kaGAqAAEg10" Guard="" Id="E8s09kaGAqAAEg4M" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:33:51.560" PmLastModified="2018-03-29T02:34:26.171" QualityScore="-1" To="OwVU9kaGAqAAEg2O" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="lCs09kaGAqAAEg4N"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="zoxU9kaGAqAAEg10" Guard="" Id="oJc09kaGAqAAEg4U" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:33:56.997" PmLastModified="2018-03-29T02:34:26.160" QualityScore="-1" To="4i5U9kaGAqAAEg2A" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="PJc09kaGAqAAEg4V"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="4i5U9kaGAqAAEg2A" Guard="" Id="e7109kaGAqAAEg6M" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:35:57.022" PmLastModified="2018-03-29T02:36:16.439" QualityScore="-1" To="dA609kaGAqAAEg4v" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="nn109kaGAqAAEg6N"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="dA609kaGAqAAEg4v" Guard="" Id="Sjt09kaGAqAAEg6Y" Leaf="false" Name="Ima status udomitelja" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:36:04.818" PmLastModified="2018-03-29T02:38:06.775" QualityScore="-1" To="X3209kaGAqAAEg4_" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="cTt09kaGAqAAEg6Z" Name="Ima status udomitelja"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="dA609kaGAqAAEg4v" Guard="" Id="ncn09kaGAqAAEg7A" Leaf="false" Name="Nema status udomitelja" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:36:51.769" PmLastModified="2018-03-29T02:39:15.648" QualityScore="-1" To="YSW09kaGAqAAEg43" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="L8n09kaGAqAAEg7B" Name="Nema status udomitelja"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="X3209kaGAqAAEg4_" Guard="" Id="GCAM9kaGAqAAEg7e" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:37:20.536" PmLastModified="2018-03-29T02:37:42.546" QualityScore="-1" To="rd309kaGAqAAEg7N" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="qiAM9kaGAqAAEg7f"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="YSW09kaGAqAAEg43" Guard="" Id="_tgM9kaGAqAAEg7m" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:37:26.527" PmLastModified="2018-03-29T02:37:42.551" QualityScore="-1" To="rd309kaGAqAAEg7N" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="ADgM9kaGAqAAEg7n"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="rd309kaGAqAAEg7N" Guard="" Id="OZmM9kaGAqAAEg9C" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:39:04.348" PmLastModified="2018-03-29T02:39:15.591" QualityScore="-1" To="OSSM9kaGAqAAEg8f" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="M5mM9kaGAqAAEg9D"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="OwVU9kaGAqAAEg2O" Guard="" Id="wspM9kaGAqAAEg9v" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:39:51.875" PmLastModified="2018-03-29T02:40:20.701" QualityScore="-1" To="keuM9kaGAqAAEg9Y" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="XspM9kaGAqAAEg9w"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="OSSM9kaGAqAAEg8f" Guard="" Id="ogFM9kaGAqAAEg97" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:40:03.398" PmLastModified="2018-03-29T02:40:20.688" QualityScore="-1" To="keuM9kaGAqAAEg9Y" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="TgFM9kaGAqAAEg98"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="keuM9kaGAqAAEg9Y" Guard="" Id="AcbM9kaGAqAAEg.d" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:41:01.568" PmLastModified="2018-03-29T02:41:51.530" QualityScore="-1" To="1QtM9kaGAqAAEg.G" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="O8bM9kaGAqAAEg.e"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="9IuU9kaGAqAAEg1e" Guard="" Id="Nbks9kaGAqAAEg_J" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:42:21.996" PmLastModified="2018-03-29T02:42:48.893" QualityScore="-1" To="9ShM9kaGAqAAEg9k" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="u7ks9kaGAqAAEg_K"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="1QtM9kaGAqAAEg.G" Guard="" Id="LCMs9kaGAqAAEg_V" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:42:31.860" PmLastModified="2018-03-29T02:42:48.894" QualityScore="-1" To="9ShM9kaGAqAAEg9k" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="HiMs9kaGAqAAEg_W"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="9ShM9kaGAqAAEg9k" Guard="" Id="NP5s9kaGAqAAEhBb" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:44:25.260" PmLastModified="2018-03-29T02:44:38.631" QualityScore="-1" To="Nhys9kaGAqAAEg_i" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="Gv5s9kaGAqAAEhBc"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="Nhys9kaGAqAAEg_i" Guard="" Id="M3Ns9kaGAqAAEhBl" Leaf="false" Name="Nema proizvoda na stanju" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:44:45.644" PmLastModified="2018-03-29T02:47:08.639" QualityScore="-1" To="0WGs9kaGAqAAEg_6" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="4PNs9kaGAqAAEhBm" Name="Nema proizvoda na stanju"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="Nhys9kaGAqAAEg_i" Guard="" Id="ifTs9kaGAqAAEhB3" Leaf="false" Name="Ima proizvoda na stanju" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:45:10.417" PmLastModified="2018-03-29T02:47:08.642" QualityScore="-1" To="6l6s9kaGAqAAEg_y" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="E_Ts9kaGAqAAEhB4" Name="Ima proizvoda na stanju"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="6l6s9kaGAqAAEg_y" Guard="" Id="h04c9kaGAqAAEhDF" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:46:33.185" PmLastModified="2018-03-29T02:47:08.629" QualityScore="-1" To="ttgc9kaGAqAAEhCo" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="CM4c9kaGAqAAEhDG"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="0WGs9kaGAqAAEg_6" Guard="" Id="JIUc9kaGAqAAEhDR" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:46:45.028" PmLastModified="2018-03-29T02:47:08.625" QualityScore="-1" To="ttgc9kaGAqAAEhCo" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="coUc9kaGAqAAEhDS"/>
+			</MasterView>
+		</ControlFlow>
+		<ControlFlow BacklogActivityId="0" Documentation_plain="" From="ttgc9kaGAqAAEhCo" Guard="" Id="5FMc9kaGAqAAEhDd" Leaf="false" PmAuthor="Ajdina" PmCreateDateTime="2018-03-29T02:46:55.528" PmLastModified="2018-03-29T02:47:08.634" QualityScore="-1" To="Onwc9kaGAqAAEhC6" UserIDLastNumericValue="0" Visibility="Unspecified" Weight="">
+			<MasterView>
+				<ControlFlow Idref="elMc9kaGAqAAEhDe"/>
+			</MasterView>
+		</ControlFlow>
+	</Models>
+</Project>
