@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="WorldOfAnimals.DodajUposlenikaPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorldOfAnimals"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        
+            <RelativePanel HorizontalAlignment="Center" Margin="0,50,0,0">
+            <TextBlock Name="Naslov" Width="200" Text="Dodajte novog uposlenika" HorizontalAlignment="Center" Margin="0,25,0,0"></TextBlock>
+            <TextBox Name="ImeTextBox"  Width="200" PlaceholderText="Ime" HorizontalAlignment="Center" Margin="0,25,0,0" RelativePanel.Below="Naslov"></TextBox>
+            <TextBox Name="PrezimeTextBox" Width="200" PlaceholderText="Prezime" HorizontalAlignment="Center" Margin="0,10,0,0" RelativePanel.Below="ImeTextBox"></TextBox>
+            <RelativePanel Name="Spol" RelativePanel.Below="PrezimeTextBox"  Margin="0,10,0,0" HorizontalAlignment="Center" >
+                <RadioButton Name="SpolMuski" Content="Muski" HorizontalAlignment="Left"></RadioButton>
+                <RadioButton Content="Zenski" HorizontalAlignment="Right" RelativePanel.RightOf="SpolMuski"></RadioButton>
+            </RelativePanel>
+            
+            <TextBox Name="emailBox" Width="200" PlaceholderText="email" HorizontalAlignment="Center" Margin="0,10,0,0" RelativePanel.Below="Spol"></TextBox>
+            <TextBox Name="usernameBox"  Width="200" PlaceholderText="username" HorizontalAlignment="Center" Margin="0,10,0,0" RelativePanel.Below="emailBox"></TextBox>
+            <StackPanel RelativePanel.Below="usernameBox" Margin ="0,10,0,0" Name="passwordTextBox">
+                <PasswordBox x:Name="passwordBox" Width="200" MaxLength="24" FontSize="12" PlaceholderText="password"/>
+                <TextBlock x:Name="statusText" Margin="10" HorizontalAlignment="Center" FontSize="12" />
+            </StackPanel>
+            <ComboBox PlaceholderText="Kategorija" Name="Vrsta" Margin="0,10,0,0" HorizontalAlignment="Center" RelativePanel.Below="passwordTextBox" Width="200" IsDropDownOpen="True"></ComboBox>
+            <Button Name="RegistrujUposlenika" Content="Registruj uposlenika" Width="250" RelativePanel.Below="Vrsta" Margin="0,25,0,0"></Button>
+                
+        </RelativePanel>
+        <Button Name="backToMain" Content="&#xE112;" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Click="Button_Click_1"/>
+
+    </Grid>
+</Page>

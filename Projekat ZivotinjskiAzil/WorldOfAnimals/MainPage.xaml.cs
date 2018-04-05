@@ -26,5 +26,20 @@ namespace WorldOfAnimals
         {
             this.InitializeComponent();
         }
+
+        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void loginButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(adminVlasnik));
+        }
+
+        private void registerButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(DodajUposlenikaPage));
+        }
     }
 }

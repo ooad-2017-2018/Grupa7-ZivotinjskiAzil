@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     "UAP,Version=v10.0.10240": {
       "Microsoft.CSharp/4.0.1": {
@@ -5000,9 +5000,6 @@
       },
       "runtime.win10-arm-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
-        "compile": {
-          "runtimes/win10-arm-aot/lib/netcore50/_._": {}
-        },
         "runtime": {
           "runtimes/win10-arm-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -9555,9 +9552,6 @@
       },
       "runtime.win10-x64-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
-        "compile": {
-          "runtimes/win10-x64-aot/lib/netcore50/_._": {}
-        },
         "runtime": {
           "runtimes/win10-x64-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -14116,9 +14110,6 @@
       },
       "runtime.win10-x86-aot.runtime.native.System.IO.Compression/4.0.1": {
         "type": "package",
-        "compile": {
-          "runtimes/win10-x86-aot/lib/netcore50/_._": {}
-        },
         "runtime": {
           "runtimes/win10-x86-aot/lib/netcore50/clrcompression.dll": {}
         }
@@ -16038,7 +16029,7 @@
       ]
     },
     "Microsoft.NETCore.UniversalWindowsPlatform/5.2.3": {
-      "sha512": "xsOO1wxNtqhPdYoNfI96fTG9xrECOqBmqwVbarRuQinQ+sZKSI604Bi2S2cPHHAogHwbs3Lzgooi5KYffvOlpQ==",
+      "sha512": "j9TvGPvxH42R7hZ4AzhSO7WdWWbDxtw69RbM2YzV2wAOnUf8MHRv3DTRT1oV0amPW779/HLr7YJuRF6QByaOAA==",
       "type": "package",
       "path": "microsoft.netcore.universalwindowsplatform/5.2.3",
       "files": [
@@ -22010,29 +22001,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nedim\\.nuget\\packages\\": {}
+    "C:\\Users\\nedim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nedim\\Desktop\\World of Animals\\WorldOfAnimals\\WorldOfAnimals\\WorldOfAnimals.csproj",
+      "projectUniqueName": "C:\\Users\\nedim\\Desktop\\OOAD\\Grupa7-ZivotinjskiAzil\\Projekat ZivotinjskiAzil\\WorldOfAnimals\\WorldOfAnimals.csproj",
       "projectName": "WorldOfAnimals",
-      "projectPath": "C:\\Users\\nedim\\Desktop\\World of Animals\\WorldOfAnimals\\WorldOfAnimals\\WorldOfAnimals.csproj",
-      "outputPath": "C:\\Users\\nedim\\Desktop\\World of Animals\\WorldOfAnimals\\WorldOfAnimals\\obj\\",
+      "projectPath": "C:\\Users\\nedim\\Desktop\\OOAD\\Grupa7-ZivotinjskiAzil\\Projekat ZivotinjskiAzil\\WorldOfAnimals\\WorldOfAnimals.csproj",
+      "packagesPath": "C:\\Users\\nedim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nedim\\Desktop\\OOAD\\Grupa7-ZivotinjskiAzil\\Projekat ZivotinjskiAzil\\WorldOfAnimals\\obj\\",
       "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nedim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
       "originalTargetFrameworks": [
         "uap10.0.10240"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {}
         }
-      }
-    },
-    "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": {
-        "target": "Package",
-        "version": "5.2.3"
       }
     },
     "frameworks": {
@@ -22040,7 +22042,7 @@
         "dependencies": {
           "Microsoft.NETCore.UniversalWindowsPlatform": {
             "target": "Package",
-            "version": "5.2.3"
+            "version": "[5.2.3, )"
           }
         }
       }
