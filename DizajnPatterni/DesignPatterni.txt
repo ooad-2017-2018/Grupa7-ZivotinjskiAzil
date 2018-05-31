@@ -1,0 +1,53 @@
+Prototype pattern
+
+Prototype pattern služi za kreiranje novih objekata tako da klonira postojeći objekt. Ako je kreiranje novog objekta zahtjevno, vršimo kloniranje tog objekta, te nam je tako omogućeno da prilagodimo sebi objekat na nama odgovarajući način. 
+Načini implementacije ovog patterna: površinsko i duboko kloniranje.
+Pri površinskom kloniranju koristimo Object.MemberWiseClone metode koja klonira objekat tako da kopira sva polja i reference objekta a kao povratni tip vraća referencu na klonirani objekat pri čemu ne kopira objekte na koje reference u objektima pokazuju. Kopiranje svih podobjekata ostvarujemo dubokim kopiranjem.
+
+U našem projektu bi se mogao iskoristiti s obzirom na to da određene elemente koristimo na više dijelova tako da bi se npr mogao iskoristiti kada bi nam trebali podaci o životinjama ili produktima u cilju statistike tako da bi više puta koristili podatke iz baze podataka.
+
+
+Interpreter pattern
+
+Za evoluiranje gramatike nekog jezika i jezičkih izraza koristimo Interpreter pattern. Da bi se riješio neki jezički problem implementira se AbstractExpression interfejs koji koristi kompozitni pattern. TerminalExpression i CompoundExpression su klase pomoću kojih rekurzivno rješavamo probleme interpretacije nekog jezičkog izraza prilikom čega je CompoundExpression dio pravila koji poziva drugo pravilo u obradi izraza.
+TerminalExpression je bazni slučaj za neko pravilo.
+
+Ovaj pattern bi mogli iskoristiti za validaciju raznih tipova unosa korisnika.
+
+
+Strategy pattern
+Pattern iz matične klase izdvaja algoritam i uključuje ga u posebne klase. Kada postoje različiti algoritmi za neki problem tada je pogodan ovaj pattern. Iz familije algoritama za korištenje omogućava izbor jednog. 
+U našem slučaju ovaj pattern možemo primijeniti na rješavanje problema preuzimanja životinje putem dvije strategije(ličnim preuzimanjem ili dostavom)
+
+
+
+State pattern
+Ovaj pattern se postiže promjenom podklase unutar hijerarhije klasa. On je dinamička verzija strategy patterna. Objekat mijenja način ponašanja na osnovnu stanja u kojem se trenutno nalazi. 
+
+Ovaj pattern možemo iskoristiti da imamo uvid u stanje korisnika, npr. oni koji su udomili neku životinju imaju popust u petshopu.
+
+
+Adapter pattern
+Adapter pattern se koristi u situacijama kada je potreban drugačiji interfejs neke klase a ne želimo mijenjati postojeću.
+Koristi se tako što kreiramo novu klasu koja služi kao veza između originalne klase i željenog interfejsa.
+
+
+Decorator pattern
+Ovaj pattern se koristi za dinamičko dodavanje elemenata i mogućnosti postojećim objektima pri čemu objekat o tome ne zna ništa. Često se koristi za implementaciju kompresija videa, simultano prevođenje itd... Da bismo implementirali ovaj pattern potrebno je implementirati klasu Component, interfejs IComponent i klasu Decorator.
+
+
+Observer pattern
+Kada je potrebno da jedan objekat promjeni stanje a da se drugi zainteresovani objekti obavijeste koristimo Observer pattern
+Prilikom narucivanja životinje ili artikla iz petshopa ta se informacija šalje odgovarajućim administratorima u formu, ali ta narudžba ne ovisi od stanja ostalih artikala.
+Mogao bi se iskoristiti prilikom brisanja životinje koja je udomljena iz liste životinja koje su dostupne.
+
+
+Iterator pattern
+Iterator pattern je pattern ponašanja i omogućava sekvencijalni pristup elementima kolekcija pri tome ne znajući kakva je struktura kolekcije.
+Koristi se kada je neophodno imati unikatan način pristupa bilo kojoj kolekciji.
+Iterator pattern se implementira ukoliko postoji više vrsta kolekcija u programu.
+Ukoliko imamo različite kolekcije podataka ovaj pattern bio bio svakako poželjan za implementirati.
+
+
+Factory pattern
+U modernim programskim jezicima, factory pattern je jedan od najčešće korištenih. On omogućava skrivanje instanciranja objekta iza factory metode referenciranja novog objekta kroz zajednički interfejs. Metode u abstract factory patternu su implementirane kao factory metode. Factory metoda kreira instancu nekog objekta.
